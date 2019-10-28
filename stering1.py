@@ -1,7 +1,7 @@
 # Strings
 
 # Concatenation
-#    2 or more strings and put them together
+#  2 or more strings and put them together
 
 firstName = "hi"
 lastName = "haw are you doing"
@@ -75,3 +75,7 @@ else:
 print(chr(69))
 print(ord('d'))
 
+
+from mapper import *
+print(letterToIndex('g'))
+print(indexToLetter(44))
