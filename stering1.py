@@ -79,3 +79,5 @@ print(ord('d'))
 from mapper import *
 print(letterToIndex('g'))
 print(indexToLetter(44))
+
+
