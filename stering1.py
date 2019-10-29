@@ -80,4 +80,6 @@ from mapper import *
 print(letterToIndex('g'))
 print(indexToLetter(44))
 
+from sifer import *
 
+print(scramble2Encrypt("hi"))
