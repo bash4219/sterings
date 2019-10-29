@@ -82,4 +82,5 @@ print(indexToLetter(44))
 
 from sifer import *
 
-print(scramble2Encrypt("hi"))
+print(scramble2Encrypt("bich can you red this"))
+print(scramble2Decrypt(""))
