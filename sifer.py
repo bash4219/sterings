@@ -31,5 +31,8 @@ def scramble2Decrypt(cipherText):
 
     return plainText
 
+def enmasij():
+    mag = input("put your stuf her")
+    key = input("wots your shift")
 
 

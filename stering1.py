@@ -84,3 +84,6 @@ from sifer import *
 
 print(scramble2Encrypt("bich can you red this"))
 print(scramble2Decrypt(""))
+
+
+
