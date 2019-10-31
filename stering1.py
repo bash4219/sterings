@@ -83,7 +83,9 @@ print(indexToLetter(44))
 from sifer import *
 
 print(scramble2Encrypt("bich can you red this"))
-print(scramble2Decrypt(""))
+print(scramble2Decrypt("ihcnyurdtibc a o e hs"))
+print( ord('d'))
 
+print(enmasij())
 
 
